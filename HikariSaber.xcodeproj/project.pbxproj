@@ -12,6 +12,8 @@
 		AA9BB87A1C201F6100F0C89D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA9BB8781C201F6100F0C89D /* Main.storyboard */; };
 		AA9BB87C1C201F6100F0C89D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AA9BB87B1C201F6100F0C89D /* Assets.xcassets */; };
 		AA9BB87F1C201F6100F0C89D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA9BB87D1C201F6100F0C89D /* LaunchScreen.storyboard */; };
+		AA9BB8871C20485C00F0C89D /* light_saber3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AA9BB8861C20485C00F0C89D /* light_saber3.mp3 */; };
+		AA9BB8891C20555D00F0C89D /* electric_chain.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AA9BB8881C20555D00F0C89D /* electric_chain.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		AA9BB87B1C201F6100F0C89D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AA9BB87E1C201F6100F0C89D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AA9BB8801C201F6100F0C89D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AA9BB8861C20485C00F0C89D /* light_saber3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = light_saber3.mp3; sourceTree = "<group>"; };
+		AA9BB8881C20555D00F0C89D /* electric_chain.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = electric_chain.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +61,8 @@
 				AA9BB8741C201F6100F0C89D /* AppDelegate.swift */,
 				AA9BB8761C201F6100F0C89D /* ViewController.swift */,
 				AA9BB8781C201F6100F0C89D /* Main.storyboard */,
+				AA9BB8861C20485C00F0C89D /* light_saber3.mp3 */,
+				AA9BB8881C20555D00F0C89D /* electric_chain.mp3 */,
 				AA9BB87B1C201F6100F0C89D /* Assets.xcassets */,
 				AA9BB87D1C201F6100F0C89D /* LaunchScreen.storyboard */,
 				AA9BB8801C201F6100F0C89D /* Info.plist */,
@@ -124,6 +130,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				AA9BB87F1C201F6100F0C89D /* LaunchScreen.storyboard in Resources */,
+				AA9BB8891C20555D00F0C89D /* electric_chain.mp3 in Resources */,
+				AA9BB8871C20485C00F0C89D /* light_saber3.mp3 in Resources */,
 				AA9BB87C1C201F6100F0C89D /* Assets.xcassets in Resources */,
 				AA9BB87A1C201F6100F0C89D /* Main.storyboard in Resources */,
 			);
